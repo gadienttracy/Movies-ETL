@@ -1,5 +1,6 @@
 *.csv
 .gitattributes
-_pycache_
+__pycache__
 .ipynb_checkpoints
 config.py
+config.cpython-37.pyc
